@@ -19,3 +19,6 @@ Generative Adversarial Networks (GANs) have been used for generating deepfakes, 
 -> Here, we have to maximize the likelihood for discriminator being wrong <br>
 -> The discriminator tries to maximize the objective function (Gradient Ascent) <br>
 -> The generator tries to minimize the objective function (Gradient Descent)
+
+## Style GAN Architecture
+![alt text](translation_with_cycle_gan.png)
